@@ -1,0 +1,22 @@
+[[source]]
+
+url = "https://pypi.python.org/simple"
+verify_ssl = true
+name = "pypi"
+
+
+[packages]
+
+setuptools = ">=38.6.0"
+plexapi = ">=3.0.6"
+click = ">=6.7"
+PyYAML = ">= 3.10"
+
+
+[dev-packages]
+
+
+
+[requires]
+
+python_version = "3.6"
