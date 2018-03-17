@@ -21,6 +21,7 @@ setup(name='plexcli',
       packages=["plexcli", "plexcli/cli"],
       entry_points={
         'console_scripts': [
-            'plexcli=plexcli.cli.main:main',
+            'plexcli=plexcli.cli.main:cli',
         ],
-},)
+      },
+      )  # end setup
