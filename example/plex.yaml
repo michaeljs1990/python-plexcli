@@ -1,0 +1,5 @@
+---
+host: http://localhost:9090
+user: example
+pass: password
+token: 1234abdc
